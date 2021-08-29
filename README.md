@@ -1,4 +1,4 @@
-# JavaFX, NetBeans, SceneBuilder - Error - Incompatible Types - cannot be converted to ObservableList CAP 1
+# JavaFX, NetBeans, SceneBuilder - Error - Incompatible Types - cannot be converted to ObservableList&lt;CAP#1&gt;
 
 How to fix this error:
 
