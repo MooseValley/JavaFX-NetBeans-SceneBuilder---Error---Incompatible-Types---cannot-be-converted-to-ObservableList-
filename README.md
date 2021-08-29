@@ -8,14 +8,17 @@ error: incompatible types: ObservableList&lt;String&gt; cannot be converted to O
 where CAP#1 is a fresh type-variable:
 </pre>
 
-Here is the Java, NetBeans, SceneBuilder source code for my video tutorial:
+Here is the Java, JavaFX, NetBeans, SceneBuilder source code for my video tutorial:
 * YouTube: https://youtu.be/_VroSG2473g
 * LBRY / Odysee: TBA
 
 Please see the description below the video for further details, software used, download links, etc.
 
+List of all Tutorial Videos and Github Repos for the Java, JavaFX, NetBeans, SceneBuilder:
+* https://github.com/MooseValley/Java-NetBeans-SceneBuilder---00---List-of-all-Videos-and-Github-Repos
+
 **Moose**
 <br>Moose's Software Valley - Established July, 1996.
-<br>https://rebrand.ly/MoosesSoftware
+<br>https://moosevalley.github.io/
 
 
