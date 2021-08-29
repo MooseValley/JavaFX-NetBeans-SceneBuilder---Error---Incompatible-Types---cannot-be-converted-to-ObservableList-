@@ -3,7 +3,7 @@
 How to fix this error:
 
 <pre>
-error: incompatible types: ObservableList<String> cannot be converted to ObservableList<CAP#1>
+error: incompatible types: ObservableList &lt;String&gt; cannot be converted to ObservableList &lt;CAP#1&gt;
 (gui component details)
 where CAP#1 is a fresh type-variable:
 </pre>
